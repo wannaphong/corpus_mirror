@@ -1,2 +1,2 @@
 # corpus_mirror
-BACK UP THAI CROPUS
+BACK UP THAI CORPUS
